@@ -23,17 +23,22 @@ This repository contains my personal solutions to a variety of DSA problems from
 🟢 Keep checking back! I'm regularly updating this repository with new solutions.
 
 📈 Learning Resources
-NeetCode.io
-LeetCode Patterns
-GeeksforGeeks DSA Sheet
-CLRS Book
+-NeetCode.io
+
+-LeetCode Patterns
+
+-GeeksforGeeks DSA Sheet
+
+-CLRS Book
 
 🚀 About Me
 I'm Atiq Shahriar, a Computer Science student passionate about software development, problem-solving, and machine learning.
 Connect with me:
-GitHub
-LinkedIn(https://www.linkedin.com/in/atiq-shahriar-98604321b/)
+-GitHub 
+
+-LinkedIn(https://www.linkedin.com/in/atiq-shahriar-98604321b/)
 
 📬 Contribute or Collaborate?
+
 Feel free to fork the repo, use the structure, or reach out if you'd like to collaborate or discuss solutions!
 ⭐ If you find this repository useful, consider giving it a star!
