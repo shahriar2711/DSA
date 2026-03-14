@@ -7,12 +7,8 @@ public:
         }
         int maxsum = sum;
 
-        int i = 0, j = k;
-        while(j < nums.size()){
-            sum -= nums[i];
-            i++;
-            sum += nums[j];
-            j++;
+        for(int i = k;i<nums.size();i++){
+            sum += nums[i] - nums[i-k];
             maxsum = max(maxsum , sum);
         }
 
